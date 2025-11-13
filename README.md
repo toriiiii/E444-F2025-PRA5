@@ -9,7 +9,11 @@ Below is the box plot and average latency results from running the latency tests
 ![boxplot](https://github.com/toriiiii/E444-F2025-PRA5/blob/main/latency_boxplot.png)
 
 Average latency per test case (seconds):
-1    0.054922
-2    0.055546
-3    0.055380
-4    0.057235
+
+1:    0.054922
+
+2:    0.055546
+
+3:    0.055380
+
+4:    0.057235
